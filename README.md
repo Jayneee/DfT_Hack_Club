@@ -4,3 +4,6 @@
 
 ### Prototyping
 * [Proto.io](https://proto.io/)
+
+### Python
+* [Tom's fabulous Python Training](https://github.com/Tommo565/Python-Training)
