@@ -2,6 +2,21 @@
 
 ## Useful links and resources
 
+### Linux/Unix
+
+For those of you who have only ever used Windows, there is a whole other world out there and it powers the majority of the web, our mobile devices and just about every other computer on the planet (even Apple stuff). If you're developing an application that will live on a server, a Linux server is what you need, but Linux is great on the desktop too (nowadays)!
+
+* [Debian](https://www.debian.org/) - the Linux of choice for anyone looking for a rock-solid and opinionated experience on the desktop and the server
+* [Fedora](https://fedoraproject.org/wiki/Fedora_Project_Wiki) - great Linux distro for all sorts for reasons!
+* [openSUSE](https://www.opensuse.org/)
+* [Best Linux distro of 2016](https://www.linux.com/news/software/applications/878620-the-best-linux-distros-of-2016/)
+* [Ubuntu](http://www.ubuntu.com/) - user-friendly and popular Linux distro for the desktop, mobile and cloud
+* [Linux Mint](https://www.linuxmint.com/) - similar to Windows UI paradigm
+* [Five Reasons Linux Beats Windows for Servers](http://www.pcworld.com/article/204423/why_linux_beats_windows_for_servers.html)
+* [Arch Linux](https://www.archlinux.org/) - my current distro of choice (and pretty hard-core)
+* Rather than me list them all - just go to [Distro Watch](https://distrowatch.com/)
+
+
 ### Prototyping
 
 Second only to prototyping and wire-framing on paper - use a swanky Javascript-crazed browser-based tool from a massively-funded Californian start-up...!
@@ -34,3 +49,12 @@ But some languages are better with an Integrated Development Environment (Hi, Ja
 * [Netbeans](https://netbeans.org/) - king of [open-source] Java IDEs
 * [IntelliJ](https://www.jetbrains.com/idea/) - free/open-source version available
 * [Pycharm](https://www.jetbrains.com/pycharm/) - brilliant Python-focused IDE. I use this and it's ace
+
+### Reglular Expressions
+
+* [Regexr](http://regexr.com/)
+
+### Development environment
+
+* [Vagrant](https://www.vagrantup.com/) - brilliant tool for provisioning virtual machines that you can use during development
+* [Virtual Box](https://www.virtualbox.org/) - use it hand-in-hand with [Vagrant](https://www.vagrantup.com/)
