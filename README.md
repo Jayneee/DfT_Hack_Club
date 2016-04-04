@@ -31,14 +31,15 @@ Python is a great first language. Learn it!
 * [Tom's fabulous Python Training](https://github.com/Tommo565/Python-Training)
 * more links coming...
 
+
 ### Text editors
 
 You need an editor to write code.
 
 * [Emacs](https://www.gnu.org/software/emacs/) - the one true editor
 * [Vim](http://www.vim.org/) - the other one true editor
-* [Sublime Text](https://www.sublimetext.com/) - sucessor to [Textmate](https://www.sublimetext.com/)
-* [Atom](https://atom.io/) - the trendy editor, especially for front-end developers and Javascripters
+* [Sublime Text](https://www.sublimetext.com/) - successor to [Textmate](https://www.sublimetext.com/)
+* [Atom](https://atom.io/) - the new trendy editor, especially for front-end developers and Javascripters
 * [Notepad++](https://notepad-plus-plus.org/) - for Windows users only
 
 ### IDEs
@@ -58,3 +59,6 @@ But some languages are better with an Integrated Development Environment (Hi, Ja
 
 * [Vagrant](https://www.vagrantup.com/) - brilliant tool for provisioning virtual machines that you can use during development
 * [Virtual Box](https://www.virtualbox.org/) - use it hand-in-hand with [Vagrant](https://www.vagrantup.com/)
+* [Git](https://git-scm.com/) - where it all starts for [Github](https://github.com) - version control for your code or anything text-based
+* [Mercurial](https://www.mercurial-scm.org/) - nice alternative to git
+* [Bitbucket](https://bitbucket.org/) - all my private code projects live here because Github charges for private repos. Bitbucket is brilliant.
