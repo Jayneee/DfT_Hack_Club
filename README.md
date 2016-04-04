@@ -15,6 +15,7 @@ For those of you who have only ever used Windows, there is a whole other world o
 * [Five Reasons Linux Beats Windows for Servers](http://www.pcworld.com/article/204423/why_linux_beats_windows_for_servers.html)
 * [Arch Linux](https://www.archlinux.org/) - my current distro of choice (and pretty hard-core)
 * Rather than me list them all - just go to [Distro Watch](https://distrowatch.com/)
+* [FreeBSD](https://www.freebsd.org/) - probably the most popular and user-friendly version of Unix around at the moment
 
 
 ### Prototyping
@@ -29,6 +30,7 @@ Second only to prototyping and wire-framing on paper - use a swanky Javascript-c
 Python is a great first language. Learn it!
 
 * [Tom's fabulous Python Training](https://github.com/Tommo565/Python-Training)
+* Why list a load of links about Python tools when you can just go to [Awesome Python](http://awesome-python.com/)?
 * more links coming...
 
 
@@ -41,6 +43,7 @@ You need an editor to write code.
 * [Sublime Text](https://www.sublimetext.com/) - successor to [Textmate](https://www.sublimetext.com/)
 * [Atom](https://atom.io/) - the new trendy editor, especially for front-end developers and Javascripters
 * [Notepad++](https://notepad-plus-plus.org/) - for Windows users only
+* [jEdit](http://www.jedit.org/) - cross-platform, powerful text editor
 
 ### IDEs
 
@@ -50,6 +53,10 @@ But some languages are better with an Integrated Development Environment (Hi, Ja
 * [Netbeans](https://netbeans.org/) - king of [open-source] Java IDEs
 * [IntelliJ](https://www.jetbrains.com/idea/) - free/open-source version available
 * [Pycharm](https://www.jetbrains.com/pycharm/) - brilliant Python-focused IDE. I use this and it's ace
+* [Wing IDE](https://wingware.com/) - Python IDE, but it costs a bit
+* [Komodo IDE](http://komodoide.com/) - another option if you want to splash the cash
+* [MS Visual Studio](https://www.visualstudio.com/)
+* [Code::Blocks](http://www.codeblocks.org/) - nice open source IDE
 
 ### Reglular Expressions
 
@@ -62,3 +69,7 @@ But some languages are better with an Integrated Development Environment (Hi, Ja
 * [Git](https://git-scm.com/) - where it all starts for [Github](https://github.com) - version control for your code or anything text-based
 * [Mercurial](https://www.mercurial-scm.org/) - nice alternative to git
 * [Bitbucket](https://bitbucket.org/) - all my private code projects live here because Github charges for private repos. Bitbucket is brilliant.
+
+### Databases and Database design
+
+* [MySQL Workbench](https://www.mysql.com/products/workbench/) - model your data for a relational database (doesn't need to be MySQL)
